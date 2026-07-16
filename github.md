@@ -9,3 +9,4 @@ what is the difference between centeralized vs Distributed version control syste
 Centralized Version Control Systems (CVCS) store all project files and historical data on a single central server. Developers check out files to their local machines, but must have an active network connection to commit changes, update, or view history. If the central server crashes, collaboration halts
 
 Distributed Version Control Systems (DVCS) give every developer a full, local clone of the entire project, including its complete history. Developers can work entirely offline—making branches and committing changes locally—and then sync with a remote server when they are ready. This makes them immune to single points of failure.
+
